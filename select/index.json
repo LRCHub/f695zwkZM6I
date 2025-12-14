@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Holiday∞Holiday (104期Ver.)",
+  "base_artist": "スリーズブーケ",
+  "createdAt": "2025-12-14T06:11:05.466206Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Holiday∞Holiday (104期Ver.)",
+      "artist": "スリーズブーケ",
+      "has_synced": false,
+      "path": "select/pl_01_Holiday∞Holiday_(104期Ver.)_スリーズブーケ.txt"
+    }
+  ]
+}
